@@ -1,0 +1,2 @@
+# alter.uz
+github.com
